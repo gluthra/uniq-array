@@ -1,0 +1,24 @@
+{
+  "name": "uniq-array",
+  "version": "1.0.0",
+  "description": "Returns an array by removing the duplicates",
+  "license": "MIT",
+  "author": {
+    "name": "Gaurav Luthra",
+    "email": "luthra.zenith@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "https://github.com/gluthra-npm/npm/tree/master/uniq-array",
+  "keywords": [
+    "uniq",
+    "array",
+    "unique",
+    "duplicate",
+    "duplicates",
+    "remove",
+    "arr",
+    "array-unique"
+  ]
+}
