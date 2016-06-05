@@ -1,6 +1,6 @@
 {
   "name": "uniq-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns an array by removing the duplicates",
   "license": "MIT",
   "author": {
@@ -10,7 +10,7 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "repository": "https://github.com/gluthra-npm/npm/tree/master/uniq-array",
+  "repository": "https://github.com/gluthra/uniq-array",
   "keywords": [
     "uniq",
     "array",
